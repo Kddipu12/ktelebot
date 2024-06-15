@@ -1,13 +1,13 @@
 # ktelebot
 
-##Prerequisites:
+## Prerequisites:
 
  -Python 3.7
  -A telegram Account
  -An openAI account for API Key
 
 
-##How to run the code
+## How to run the code
 
 ```bash
   conda create -n telebot python=3.7 -y
