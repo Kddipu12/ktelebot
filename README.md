@@ -2,9 +2,9 @@
 
 ## Prerequisites:
 
- -Python 3.7
- -A telegram Account
- -An openAI account for API Key
+ - Python 3.7
+ - A telegram Account
+ - An openAI account for API Key
 
 
 ## How to run the code
